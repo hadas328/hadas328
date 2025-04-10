@@ -4,8 +4,8 @@
 I'm a passionate developer, starting my formal programming studies. I have experience in Java and C#, and I recently completed my first project in WPF, which was an amazing and fun experience for me. I've been learning programming since I was 16, and I’m always excited to learn new technologies and improve my skills.
 
 ## 💻 Skills
-- **Languages:** Java, C#
-- **Frameworks:** WPF
+- **Languages:** Java, C, C#, HTML, CSS, JavaScript, SQL
+- **Frameworks:**WPF, Node.js, Visual Studio, VS Code
 - **Currently learning:** Expanding my knowledge in various programming fields
 
 ## 🌱 Goals
