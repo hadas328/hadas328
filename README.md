@@ -5,7 +5,7 @@ I'm a passionate developer, starting my formal programming studies. I have exper
 
 ## 💻 Skills
 - **Languages:** Java, C, C#, HTML, CSS, JavaScript, SQL
-- **Frameworks:**WPF, Node.js, Visual Studio, VS Code
+- **Frameworks:** WPF, Node.js, Visual Studio, VS Code
 - **Currently learning:** Expanding my knowledge in various programming fields
 
 ## 🌱 Goals
